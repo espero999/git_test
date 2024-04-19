@@ -9,6 +9,6 @@ public class test {
 	@GetMapping("/test")
 	public String test(){
 		System.out.println("12345");
-		return "test";
+		return "tes222222222t";
 	}
 }
